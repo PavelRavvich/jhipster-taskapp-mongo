@@ -1,0 +1,1 @@
+# jhipster-taskapp-mongo
